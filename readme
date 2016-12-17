@@ -1,0 +1,15 @@
+KNN is a simple algorithm that stores all available cases and classifies new cases based on a similarity measure. 
+The data is represented in a vector space and is a good algorithm to use when you have lots of training data.
+Learning in this algorithm consists of storing the presented training data and then when a new query instance is
+encountered a set of similar related instances is retrieved from memory and is used to classify the new query instance.
+The advantages of KNN are that the training is very fast and you do not loose information that is learned. 
+Decision Tree (DT) algorithm takes a given set of training cases and their attribute values and tries to 
+determine the target attribute value of new examples. Decision trees are a popular tool for classification and prediction.  
+
+I choose this project because Decision trees and KNN are something that we have talked about in multiple classes.
+We started talking about decision trees in the Intro the Data Structures class and then what I learned was added
+to in the Algorithms class and then even more in the AI class.  I was able to apply what I learned in the 
+Data Structures and Algorithm class when programming these algorithms.  It shows how much understanding I have
+gained throughout my college career about trees and how they can be used in a real life situation. 
+Decision tree and KNN algorithms are widely used algorithms in many different types of fields and I feel
+they are important to be able to use and understand. 
